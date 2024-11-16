@@ -1,0 +1,15 @@
+The append() method adds a new element to the end of a list; 
+The extend() method extends one list with another list;
+The insert() method inserts a value into a list at a specified position;
+The index() method returns the index of the first element whose value is equal to the value passed to the method;
+The remove() method removes the first element whose value is equal to the value passed to the method;
+The pop() method removes and returns the element at the specified index;
+The count() method returns the number of elements in the list whose values are equal to the value passed to the method;
+The reverse() method reverses the order of elements in the list;
+The copy() method creates a shallow copy of the list;
+The clear() method removes all elements from the list;
+del The operator allows removing elements from a list at a specific index.
+---
+String methods that work with lists:
+The split() method splits a string into words, using a sequence of whitespace characters, a tab character (\t), or a newline character (\n) as a separator.
+The join() method concatenates strings from a list into a single string, using the string to which the method is applied as a separator.
